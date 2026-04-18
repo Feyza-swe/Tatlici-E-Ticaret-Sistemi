@@ -1,6 +1,6 @@
 # 🥧 Tatlıcı E-Ticaret Yönetim Sistemi
 
-Bu proje, **Web Programlama 2** dersi final projesi kapsamında geliştirilmiş, tam kapsamlı bir e-ticaret ve içerik yönetim sistemidir. 1985'ten beri süre gelen lezzet geleneğini dijital dünyaya taşımayı amaçlar.
+Bu proje, tam kapsamlı bir e-ticaret ve içerik yönetim sistemidir. 1985'ten beri süre gelen lezzet geleneğini dijital dünyaya taşımayı amaçlar.
 
 ## 🚀 Öne Çıkan Özellikler (Proje Gereksinimleri)
 
