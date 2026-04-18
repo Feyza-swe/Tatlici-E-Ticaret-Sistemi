@@ -1,4 +1,4 @@
-# 🥧 Tatlıcı E-Ticaret Yönetim Sistemi
+# 🥧 Tatlıcı E-Ticaret Sistemi
 
 Bu proje, tam kapsamlı bir e-ticaret ve içerik yönetim sistemidir. 1985'ten beri süre gelen lezzet geleneğini dijital dünyaya taşımayı amaçlar.
 
