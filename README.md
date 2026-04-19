@@ -27,6 +27,6 @@ Bu proje, tam kapsamlı bir e-ticaret ve içerik yönetim sistemidir. 1985'ten b
 4. `inc/baglan.php` dosyasındaki veritabanı bilgilerini kontrol edin.
 5. Tarayıcıdan `localhost/Tatlici` adresine gidin.
 
-**Test Admin Bilgileri:**
+**Test Admin Bilgileri:**.
 - **E-posta:** feyza@gmail.com 
-- **Şifre:** feyza123
+- **Şifre:** feyza123  
