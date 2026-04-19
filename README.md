@@ -12,7 +12,7 @@ Bu proje, tam kapsamlı bir e-ticaret ve içerik yönetim sistemidir. 1985'ten b
 - **Rol Bazlı Yetkilendirme :** Süper Admin, Editör ve Moderatör rolleriyle sayfa ve işlem bazlı yetki kontrolü.
 - **Dinamik İçerik Yönetimi :** Menüler, slider modülü, ürünler ve site ayarları tamamen admin paneli üzerinden yönetilebilir.
 - **Modüler Mimari :** Header, Footer ve Veritabanı bağlantısı gibi bölümler bağımsız dosyalarda tutularak kod tekrarı önlenmiştir.
-- **Hata Loglama :** Kritik sistem hataları teknik detay gösterilmeden arka planda IP ve tarih bilgisiyle kaydedilir.
+- **Hata Loglama :** Kritik sistem hataları teknik detay gösterilmeden arka planda IP ve tarih bilgisiyle kaydedilmiş olur.
 
 ## 🛠️ Kullanılan Teknolojiler
 - **Backend:** PHP 8.x
