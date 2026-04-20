@@ -2,6 +2,10 @@
 
 Bu proje, tam kapsamlı bir e-ticaret ve içerik yönetim sistemidir. 1985'ten beri süre gelen lezzet geleneğini dijital dünyaya taşımayı amaçlar.
 
+## 🤝 İş Birliği
+Bu proje [@sudeerhfd] [@dilan-celik] ile iş birliği içinde geliştirilmiştir.  
+Tasarım ve geliştirme süreçlerinde birlikte çalıştık.
+
 ## 🚀 Öne Çıkan Özellikler (Proje Gereksinimleri)
 
 - **Responsive Tasarım :** Mobil, tablet ve masaüstü cihazlarla tam uyumlu (Duyarlı) arayüz.
@@ -13,10 +17,6 @@ Bu proje, tam kapsamlı bir e-ticaret ve içerik yönetim sistemidir. 1985'ten b
 - **Dinamik İçerik Yönetimi :** Menüler, slider modülü, ürünler ve site ayarları tamamen admin paneli üzerinden yönetilebilir.
 - **Modüler Mimari :** Header, Footer ve Veritabanı bağlantısı gibi bölümler bağımsız dosyalarda tutularak kod tekrarı önlenmiştir.
 - **Hata Loglama :** Kritik sistem hataları teknik detay gösterilmeden arka planda IP ve tarih bilgisiyle kaydedilmiş olur.
-
-## 🤝 Collaboration
-This project was developed collaboratively with [@sudeerhfd] [@dilan-celik].  
-We worked together on design, development, and implementation.
 
 ## 🛠️ Kullanılan Teknolojiler
 - **Backend:** PHP 8.x
