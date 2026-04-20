@@ -15,7 +15,7 @@ Bu proje, tam kapsamlı bir e-ticaret ve içerik yönetim sistemidir. 1985'ten b
 - **Hata Loglama :** Kritik sistem hataları teknik detay gösterilmeden arka planda IP ve tarih bilgisiyle kaydedilmiş olur.
 
 ## 🤝 Collaboration
-This project was developed collaboratively with [@sudeerhfd].  
+This project was developed collaboratively with [@sudeerhfd] [@dilan-celik].  
 We worked together on design, development, and implementation.
 
 ## 🛠️ Kullanılan Teknolojiler
