@@ -14,6 +14,10 @@ Bu proje, tam kapsamlı bir e-ticaret ve içerik yönetim sistemidir. 1985'ten b
 - **Modüler Mimari :** Header, Footer ve Veritabanı bağlantısı gibi bölümler bağımsız dosyalarda tutularak kod tekrarı önlenmiştir.
 - **Hata Loglama :** Kritik sistem hataları teknik detay gösterilmeden arka planda IP ve tarih bilgisiyle kaydedilmiş olur.
 
+## 🤝 Collaboration
+This project was developed collaboratively with [@sudeerhfd].  
+We worked together on design, development, and implementation.
+
 ## 🛠️ Kullanılan Teknolojiler
 - **Backend:** PHP 8.x
 - **Veritabanı:** MySQL (MariaDB)
